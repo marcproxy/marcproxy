@@ -39,7 +39,3 @@ Ajinomoto - Alternant Développeur DEVOPS
 - LinkedIn : https://www.linkedin.com/in/martin-marcdevops
 
 💬 Merci de visiter mon GitHub ! N'hésitez pas à explorer mes projets et à me contacter pour toute opportunité 💬
-
-
-
-Cela ajoute une touche de dynamisme à votre présentation GitHub tout en restant concise.
