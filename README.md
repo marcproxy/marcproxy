@@ -19,7 +19,7 @@ DevOps : GitHub Actions, Docker
 -  Technologies : Expo, Docker.
 
 🌐 Stockage 🌐
-- Description : Gestion de stockage avec suivis et reservation plus une vue en graphique.
+- Description : Gestion de stockage avec suivis et reservations plus une vue en graphique.
 - **Technologies**: HTML, CSS, PHP, JS.
 
 🎓 Formation 🎓
