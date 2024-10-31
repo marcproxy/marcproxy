@@ -29,8 +29,8 @@ DevOps : GitHub Actions, Docker
 
 💼 Expérience 💼
 
-Ajinomoto - Alternant Développeur DEVOPS
-- 📅 09/2023 - 09/2024
+Ajinomoto - Expert en informatique et système d'information
+- 📅 09/2023 - 07/2026
 - Développement et maintenance d'applications web.
 
 📞 Contact 📞
